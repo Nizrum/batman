@@ -259,6 +259,7 @@ body {
     border-radius: 0px 5px 5px 0px;
     border: none;
     padding: 12px;
+    margin-left: -4px;
 }
 
 @media (max-width: 1200px) {

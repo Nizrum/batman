@@ -1,3 +1,7 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
 body {
     background-color: #0A090A;
     color: #fff;
@@ -352,5 +356,9 @@ body {
     .button {
         width: 100%;
         margin-bottom: 5%;
+    }
+    .subscribe {
+        margin: 0 auto;
+        text-align: center;
     }
 }

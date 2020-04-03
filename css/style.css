@@ -197,6 +197,9 @@ body {
     margin: 0;
     line-height: 150%;
 }
+.actors-list-item a {
+    color: #000000;
+}
 .full-info {
     flex: 0.97;
 }
